@@ -258,8 +258,3 @@ This implementation bridges computer vision and natural language processing, ena
 
 
 
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
